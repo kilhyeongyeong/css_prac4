@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(102, 102, 102);
+}
+.container {
+    /* 총 너비 */
+    width: 500px;
+
+    /* 중간정렬 */
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+
+/* 여기서 부터 Header */
+.header {
+    background-color: rgb(20, 54, 84);
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+.title_tiger { /* 호랑이 */
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+}
+.title { /* 를 -로한 */
+    color: rgb(204, 202, 56);
+    font-weight: 600;
+}
+.title>span { /* 주제 */ /* 태그에 따라서 수정 필요 */
+    font-size: larger;
+    font-weight: bolder;
+}
+.title_minhwa { /* 민화 */
+    color: rgb(204, 204, 204);
+    font-size: 40px;
+    font-weight: 800;
+}
+/* 여기까지 Hedaer */
