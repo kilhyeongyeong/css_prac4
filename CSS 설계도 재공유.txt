@@ -1,0 +1,23 @@
+CSS 설계도 재공유
+
+<body>
+<div class="container">
+	<header class="header">
+		<h1 class="title">
+			호랑이=>.title_tiger, 를 -로한=.title, 민화=.title_minhwa
+		</h1>
+	</header>
+	<div class="content">
+		<div class"left">
+			<p><a>*5
+		</div>
+		<div class="main_content">
+			<div>
+				<h2><p>*2
+			</div>
+		</div>
+	</div>
+	<footer>
+	</footer>
+</div>
+</body>
